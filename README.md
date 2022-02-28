@@ -1,4 +1,4 @@
-# Project_1_Titanic
+# Predict if the Titanic passenger will survive
 
 This was my first Python project, using Python to build a predictive model.
 
